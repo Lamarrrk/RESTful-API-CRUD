@@ -1,13 +1,11 @@
-package com.example.restulapi;
+package com.example.restfulapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestulApiApplication {
-
+public class RestfulApiApplication {
     public static void main(String[] args) {
-        SpringApplication.run(RestulApiApplication.class, args);
+        SpringApplication.run(RestfulApiApplication.class, args);
     }
-
 }

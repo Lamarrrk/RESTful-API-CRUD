@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>RestfulAPI</artifactId>
+    <artifactId>restful-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>RestulAPI</name>
-    <description>RestulAPI</description>
+    <name>restful-api</name>
+    <description>restful-api</description>
     <properties>
         <java.version>17</java.version>
     </properties>
